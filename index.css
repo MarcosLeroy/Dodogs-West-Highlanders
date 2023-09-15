@@ -1,0 +1,79 @@
+body {
+  background-color: rgb(167, 38, 38);
+}
+
+header {
+  text-align: center;
+  border: 1px solid black;
+  padding: 1px;
+  background-image: url("https://i.pinimg.com/originals/ae/58/e8/ae58e896f9385ae20dc2667fdc91de89.jpg");
+  background-size: cover;
+  background-position: center;
+  width: auto;
+  height: 600px;
+}
+
+#main-title {
+  color: black;
+}
+
+#main-subtitle {
+  color: black;
+}
+
+#westie-photo-redcollar {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 30px;
+}
+
+.introdutory-text {
+  font-style: italic;
+  font-size: xx-large;
+  text-align: justify;
+}
+
+.list-general-conditions {
+  font-style: italic;
+  font-size: x-large;
+}
+
+#westie-photo-whitebackground {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.list-breed-characteristics {
+  font-style: italic;
+  font-size: x-large;
+}
+
+#westie-photo-grassbackground {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+h2 {
+  text-align: center;
+  border: 1px solid black;
+  background-color: white;
+}
+
+#westie-video-youtube {
+  width: 100%;
+  height: 500px;
+  display: block;
+}
+
+#text-moreinformation {
+  font-size: x-large;
+}
+
+footer {
+  text-align: center;
+  border: 1px solid rgb(83, 70, 70);
+  background-color: white;
+}
